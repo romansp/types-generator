@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project>
   <PropertyGroup>
-    <RtTargetFile>$(ProjectDir)models.ts</RtTargetFile>
+    <RtTargetFile>$(ProjectDir)/generated/models.ts</RtTargetFile>
     <RtConfigurationMethod>generator.TypescriptGenerationConfiguration.Configure</RtConfigurationMethod>
     <RtDisable>false</RtDisable>
   </PropertyGroup>
