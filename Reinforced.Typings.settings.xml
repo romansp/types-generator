@@ -4,5 +4,6 @@
     <RtTargetFile>$(ProjectDir)/generated/models.ts</RtTargetFile>
     <RtConfigurationMethod>generator.TypescriptGenerationConfiguration.Configure</RtConfigurationMethod>
     <RtDisable>false</RtDisable>
+    <RtForceTargetFramework>netcoreapp3.1</RtForceTargetFramework>
   </PropertyGroup>
 </Project>
